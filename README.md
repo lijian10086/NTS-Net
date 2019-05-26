@@ -31,3 +31,6 @@ booktitle = {ECCV},
 year = {2018}
 }
 ```
+## 李剑备注：
+https://zhuanlan.zhihu.com/p/62106844?utm_source=wechat_session&utm_medium=social&utm_oi=589576447262199808
+本代码的博文：细粒度识别之 Learning to Navigate
