@@ -32,5 +32,5 @@ year = {2018}
 }
 ```
 ## 李剑备注：
-https://zhuanlan.zhihu.com/p/62106844?utm_source=wechat_session&utm_medium=social&utm_oi=589576447262199808
-本代码的博文：细粒度识别之 Learning to Navigate
+1.https://zhuanlan.zhihu.com/p/62106844?utm_source=wechat_session&utm_medium=social&utm_oi=589576447262199808 本代码的博文：细粒度识别之 Learning to Navigate
+2.https://github.com/lijian10086/NTS-Net-keras keras版本的源码
